@@ -159,7 +159,7 @@ By default, it remains empty. You can add domain names into the **value** field 
 ## Hide landing page courses
 
 ```Hide landing page courses  
-Features: HideCoursesInLandingPage
+Features:HideCoursesInLandingPage
 ```
 
 The portal allows content to be available to the learners only after they login to the platform from the landing page. The landing page for the learners by default shows the names and description of the self-enroll and auto-enroll courses on the platform, this can be avoided by setting this configuration as **True**.
@@ -171,7 +171,7 @@ By default, this feature is disabled with value as **False** allowing learners t
 ## Hide Course Library
 
 ```Hide Course Library  
-Features: HideCourseLibrary
+Features:HideCourseLibrary
 ```
 
 The portal allows you to hide the Course Library from the learner’s view of the platform. You can enable/ disable this feature on the portal depending on your specific requirements.
@@ -193,7 +193,7 @@ By default this feature is not enabled, you need to add the above configuration 
 ## Allow learners to skip videos
 
 ```Allow learners to skip videos  
-Features: EnableSeekingInVideos
+Features:EnableSeekingInVideos
 ```
 
 The portal allows learners to skip through any video lesson while viewing it on the platform. This capability can be enabled/disabled on the portal depending on your specific requirements.
